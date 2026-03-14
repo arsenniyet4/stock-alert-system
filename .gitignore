@@ -1,6 +1,8 @@
 # Ignore everything
 *
 
-# Except README.md
+# Except README.md, .gitignore, and images
 !README.md
 !.gitignore
+!images/
+!images/*
